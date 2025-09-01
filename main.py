@@ -1,5 +1,7 @@
 import re
 
+# first commit
+
 def load_dictionary(file_path="/usr/share/dict/words"):
     """Load words from the Linux dictionary file"""
     words = []
